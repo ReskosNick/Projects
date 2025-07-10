@@ -1,0 +1,24 @@
+# Parallel Programming Projects: Pthreads & OpenMP
+
+This folder contains a collection of parallel programming applications developed using **Pthreads** and **OpenMP** in C/C++. These projects were created as part of coursework and experimentation in high-performance computing and parallel processing.
+
+## Contents
+
+- `pthreads/` — Examples and small projects demonstrating thread creation, synchronization (mutexes, condition variables), and task parallelism using the POSIX threads (Pthreads) library.
+- `openmp/` — Programs showcasing loop-level parallelism, work-sharing constructs, and performance scaling using OpenMP.
+
+## Topics Covered
+
+- Multithreading with Pthreads (POSIX threads)
+  - Thread management
+  - Synchronization primitives
+  - Race condition avoidance
+- Shared-memory parallelism with OpenMP
+  - `#pragma` directives
+  - Reduction and critical sections
+  - Parallel loops and sections
+
+## Requirements
+
+- GCC or Clang with Pthreads and OpenMP support  
+- Linux or macOS environment (Windows via WSL or MinGW)
