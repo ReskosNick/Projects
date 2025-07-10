@@ -1,4 +1,4 @@
-Distributed Key-Value Store Implementation
+# Distributed Key-Value Store Implementation
 
 A fault-tolerant, distributed key-value store with support for nested queries and k-way replication.
 
