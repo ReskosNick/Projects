@@ -2,11 +2,6 @@
 
 This folder contains a collection of parallel programming applications developed using **Pthreads** and **OpenMP** in C. These projects were created as part of coursework and experimentation in high-performance computing and parallel processing.
 
-## Contents
-
-- `pthreads/` — Examples and small projects demonstrating thread creation, synchronization (mutexes, condition variables), and task parallelism using the POSIX threads (Pthreads) library.
-- `openmp/` — Programs showcasing loop-level parallelism, work-sharing constructs, and performance scaling using OpenMP.
-
 ## Topics Covered
 
 - Multithreading with Pthreads (POSIX threads)
