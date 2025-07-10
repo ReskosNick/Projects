@@ -1,0 +1,10 @@
+name string
+surname string
+age int
+height float
+mass float
+address string
+level int
+income float
+father string
+mother string
